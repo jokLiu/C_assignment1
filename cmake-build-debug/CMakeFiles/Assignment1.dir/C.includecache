@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jokl/CLionProjects/Assignment1/freegraph.h
+
+/home/jokl/CLionProjects/Assignment1/freegraphmain.c
+stdio.h
+-
+stdlib.h
+-
+freegraph.h
+/home/jokl/CLionProjects/Assignment1/freegraph.h
+
